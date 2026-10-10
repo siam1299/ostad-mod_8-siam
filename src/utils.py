@@ -18,9 +18,18 @@ def safe_calculate(operation, a, b):
             return subtract(a, b)
         elif operation == "multiply":
             return multiply(a, b)
+        elif operation == "divide":
+            return divide(a, b)
         else:
             raise ValueError("Unsupported operation")
     except TypeError:
         return "Error: Please provide valid numbers"
     except ValueError as error:
         return f"Error: {error}"
+
+
+
+def divide(a, b):
+    if b == 0:
+        raise ValueError("Cannot divide by zero")
+    return a / b
