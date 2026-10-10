@@ -1,5 +1,25 @@
-Project Description
+# Project Description
 
-This project is created as part of the Ostad Module 8 Git and GitHub practical assignment.
+## Overview
 
-The project demonstrates basic Git operations, including repository initialization, commits, branching, merging, and remote repository management. It also includes simple Python calculator functions.
+This project is developed as part of the Ostad Module 8 Git and GitHub practical assignment.
+
+## Objectives
+
+- Practice Git repository initialization and version control.
+- Learn how to create branches, commit changes, and merge branches.
+- Understand how to connect a local repository to GitHub.
+- Implement a basic Python calculator.
+
+## Features
+
+- Addition of two numbers.
+- Subtraction of two numbers.
+- Multiplication of two numbers.
+- Basic error handling (planned for the next development stage).
+
+## Technologies Used
+
+- Python
+- Git
+- GitHub
