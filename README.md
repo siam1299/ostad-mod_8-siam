@@ -8,15 +8,15 @@ This project is created to practice Git and GitHub basics, including commits, br
 
 ## Features
 
-- Basic Python calculator
-- Addition and subtraction operations
+- Addition, subtraction, multiplication, and division
+- Basic error handling for invalid inputs and division by zero
 - Git branching and merging practice
 - Version control using Git and GitHub
 
 ## Project Structure
 
 ```text
-git-practice-siam/
+ostad-mod_8-siam/
 ├── README.md
 ├── .gitignore
 ├── src/
@@ -24,3 +24,4 @@ git-practice-siam/
 │   └── utils.py
 └── docs/
     └── project-description.md
+```
