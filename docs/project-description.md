@@ -16,7 +16,7 @@ This project is developed as part of the Ostad Module 8 Git and GitHub practical
 - Addition of two numbers.
 - Subtraction of two numbers.
 - Multiplication of two numbers.
-- Basic error handling (planned for the next development stage).
+- Basic error handling for invalid inputs and division by zero.
 
 ## Technologies Used
 
